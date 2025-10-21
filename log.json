@@ -146,5 +146,17 @@
     "timestamp": "2025-10-21T11:53:28.301Z",
     "actorIp": "::1",
     "adminId": "KCNUnJtK"
+  },
+  {
+    "action": "clear",
+    "reason": "gyat",
+    "timestamp": "2025-10-21T13:17:12.335Z",
+    "actorIp": "::1",
+    "adminId": "KCNUnJtK",
+    "previous": {
+      "code": "404S",
+      "description": "GYAT",
+      "timestamp": "2025-10-21T11:53:28.301Z"
+    }
   }
 ]
