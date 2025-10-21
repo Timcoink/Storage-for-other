@@ -26,5 +26,17 @@
     "timestamp": "2025-10-21T01:47:21.677Z",
     "actorIp": "::1",
     "adminId": "KCNUnJtK"
+  },
+  {
+    "action": "clear",
+    "reason": "ok done",
+    "timestamp": "2025-10-21T01:55:46.890Z",
+    "actorIp": "::1",
+    "adminId": "KCNUnJtK",
+    "previous": {
+      "code": "404S",
+      "description": "test",
+      "timestamp": "2025-10-21T01:47:21.677Z"
+    }
   }
 ]
